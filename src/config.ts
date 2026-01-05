@@ -1,6 +1,6 @@
 export const SUBTITLE = "A free clone of LinkTree"
 export const TITLE = "Cherry B Studio"
-export const TAGLINE = "Make your own LinkTree page for free"
+export const TAGLINE = "Our Stars are Aligned"
 
 // Contacts
 export const contact = "Keep in touch"
